@@ -1,0 +1,7 @@
+﻿  sortComparison.cpp
+C:\Users\keegs\Desktop\sortComparison\sortComparison\sortComparison.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\keegs\Desktop\sortComparison\sortComparison\sortComparison.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\keegs\Desktop\sortComparison\sortComparison\sortComparison.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\keegs\Desktop\sortComparison\sortComparison\sortComparison.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\keegs\Desktop\sortComparison\sortComparison\sortComparison.cpp(123,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  sortComparison.vcxproj -> C:\Users\keegs\Desktop\sortComparison\x64\Debug\sortComparison.exe
