@@ -1,0 +1,3 @@
+﻿  CharacterFrequencies.cpp
+C:\Users\keegs\Desktop\CharacterFrequencies\CharacterFrequencies\CharacterFrequencies.cpp(98): warning C4715: 'CharacterFrequencies::getFrequency': not all control paths return a value
+  CharacterFrequencies.vcxproj -> C:\Users\keegs\Desktop\CharacterFrequencies\x64\Debug\CharacterFrequencies.exe
