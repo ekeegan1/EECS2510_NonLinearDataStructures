@@ -1,0 +1,18 @@
+﻿  RedBlackTree.cpp
+C:\Users\keegs\Desktop\RedBlackTree\RedBlackTree\RedBlackTree.cpp(541,18): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\keegs\Desktop\RedBlackTree\RedBlackTree\RedBlackTree.cpp(545,33): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\keegs\Desktop\RedBlackTree\RedBlackTree\RedBlackTree.cpp(552,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\keegs\Desktop\RedBlackTree\RedBlackTree\RedBlackTree.cpp(565,26): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  RedBlackTree.vcxproj -> C:\Users\keegs\Desktop\RedBlackTree\x64\Debug\RedBlackTree.exe
